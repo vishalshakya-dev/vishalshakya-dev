@@ -1,7 +1,7 @@
-# Hi there, I'm Vishal Shakya 👋
+# Hi there, I'm <span style="color: #EB1F6A;">Vishal Shakya</span> 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EB1F6A&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+Vue.js;Learning+DevOps+%26+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EB1F6A&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;PHP+%7C+Laravel+%7C+Vue.js+%7C+Python;Learning+DevOps+%26+React" alt="Typing SVG" />
   <br />
 </div>
 
