@@ -10,11 +10,11 @@
 - 🔭 I'm currently working on **Web Development Projects**
 - 📚 I'm currently learning **DevOps & React**
 - 💬 Ask me about **PHP, Laravel, Node.js, Python, JavaScript, Vue.js, MySQL, MongoDB**
-- 📫 How to reach me: **hello@vishalshakya.com**
+- 📫 How to reach me: **mail@vishalshakya.com**
 
 <div>
-  <a href="mailto:hello@vishalshakya.com">
-    <img src="https://img.shields.io/badge/Email-hello%40vishalshakya.com-%23EB1F6A.svg?style=flat&logo=Gmail&logoColor=white" alt="Email" />
+  <a href="mailto:mail@vishalshakya.com">
+    <img src="https://img.shields.io/badge/Email-mail%40vishalshakya.com-%23EB1F6A.svg?style=flat&logo=Gmail&logoColor=white" alt="Email" />
   </a>
   <br />
   <a href="https://www.linkedin.com/in/vishal-shakya-a82b47230/" target="_blank">
