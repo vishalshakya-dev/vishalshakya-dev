@@ -1,72 +1,97 @@
-# Hi there, I'm <span style="color: #EB1F6A;">Vishal Shakya</span> 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EB1F6A&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;PHP+%7C+Laravel+%7C+Vue.js+%7C+Python;Learning+DevOps+%26+React" alt="Typing SVG" />
-  <br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishal%20Shakya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer&descSize=16&descAlignY=55&descColor=EB1F6A" width="100%"/>
+
 </div>
 
-## 👨‍💻 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=EB1F6A&center=true&vCenter=true&width=620&lines=Building+intelligent+web+applications+%F0%9F%A4%96;Integrating+LLMs+into+real+products+%F0%9F%A7%A0;Full-Stack+%E2%80%94+Laravel+%7C+Vue.js+%7C+React+%7C+NestJS;Python+%7C+Node.js+%7C+AI+APIs+%7C+DevOps" alt="Typing SVG" />
+</div>
 
-- 🔭 I'm currently working on **Web Development Projects**
-- 📚 I'm currently learning **DevOps & React**
-- 💬 Ask me about **PHP, Laravel, Node.js, Python, JavaScript, Vue.js, MySQL, MongoDB**
-- 📫 How to reach me: **mail@vishalshakya.com**
+<br/>
 
-<div>
-  <a href="mailto:mail@vishalshakya.com">
-    <img src="https://img.shields.io/badge/Email-mail%40vishalshakya.com-%23EB1F6A.svg?style=flat&logo=Gmail&logoColor=white" alt="Email" />
-  </a>
-  <br />
-  <a href="https://www.linkedin.com/in/vishal-shakya-a82b47230/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-vishal--shakya-%23EB1F6A.svg?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
-  </a>
-  <br />
-  <a href="https://instagram.com/_vishalshakya" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-__vishalshakya-%23EB1F6A.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
+<div align="center">
+
+🌐 [vishalshakya.com](https://vishalshakya.com) &nbsp;·&nbsp; 📬 [vishal.shakya991@gmail.com](mailto:vishal.shakya991@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/vishal-shakya-a82b47230/) &nbsp;·&nbsp; 📸 [Instagram](https://instagram.com/_vishalshakya)
+
 </div>
 
 ---
 
-## 🛠️ Skills & Technologies
+## ⚡ What I'm Up To
 
-<details open>
-<summary>Frontend</summary>
-<br>
-  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-</details>
+```typescript
+const vishal = {
+  role        : "Full-Stack Developer + AI Engineer",
+  focus       : ["LLM integrations", "AI-powered web apps", "scalable APIs"],
+  currentlyOn : "Building products that use AI to actually solve problems",
+  learning    : ["Agentic AI workflows", "NestJS microservices", "DevOps & CI/CD"],
+  ask_me      : ["Laravel", "Vue.js", "React", "Python", "Node.js", "AI APIs"],
+  contact     : "vishal.shakya991@gmail.com",
+};
+```
 
-<details open>
-<summary>Backend</summary>
-<br>
-  
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-</details>
+---
 
-<details open>
-<summary>DevOps & Cloud</summary>
-<br>
-  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-</details>
+## 🤖 AI & Machine Learning
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+*I don't just use AI tools — I build with them.*
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Area | What I work with |
+|------|-----------------|
+| 🧠 **LLM Integrations** | OpenAI GPT-4, Claude API, Gemini — prompt engineering, RAG pipelines, tool use |
+| 🔗 **Orchestration** | LangChain, LlamaIndex — agents, memory systems, retrieval-augmented workflows |
+| 🐍 **Python AI Stack** | FastAPI backends, vector DBs (Pinecone, Chroma), embeddings |
+| 🤗 **Open Source Models** | Hugging Face — fine-tuning and deploying models |
+| 🛠️ **AI-powered Features** | Smart search, content generation, document parsing, chat interfaces |
+| 💜 **Vibe Coding** | Shipping full apps fast with [Lovable](https://lovable.dev), Cursor, AI-assisted workflows |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+[![Skills](https://skillicons.dev/icons?i=php,python,js,ts,html,css&theme=dark)](https://skillicons.dev)
+
+**Frontend**
+
+[![Skills](https://skillicons.dev/icons?i=vue,react,tailwind,bootstrap,sass,vite&theme=dark)](https://skillicons.dev)
+
+**Backend & APIs**
+
+[![Skills](https://skillicons.dev/icons?i=laravel,nodejs,nestjs,express,fastapi&theme=dark)](https://skillicons.dev)
+
+**Databases**
+
+[![Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres&theme=dark)](https://skillicons.dev)
+
+**DevOps & Cloud**
+
+[![Skills](https://skillicons.dev/icons?i=docker,aws,gcp,nginx,githubactions,linux&theme=dark)](https://skillicons.dev)
+
+**Tools**
+
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,firebase&theme=dark)](https://skillicons.dev)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+
+*Building things that matter. One commit at a time.*
+
 </div>
