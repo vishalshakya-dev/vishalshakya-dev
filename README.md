@@ -12,7 +12,10 @@
 
 <div align="center">
 
-🌐 [vishalshakya.com](https://vishalshakya.com) &nbsp;·&nbsp; 📬 [vishal.shakya991@gmail.com](mailto:vishal.shakya991@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/vishal-shakya-a82b47230/) &nbsp;·&nbsp; 📸 [Instagram](https://instagram.com/_vishalshakya)
+🌐 <a href="https://vishalshakya.com" target="_blank">vishalshakya.com</a> &nbsp;·&nbsp;
+📬 <a href="mailto:vishal.shakya991@gmail.com" target="_blank">vishal.shakya991@gmail.com</a> &nbsp;·&nbsp;
+💼 <a href="https://www.linkedin.com/in/vishal-shakya-a82b47230/" target="_blank">LinkedIn</a> &nbsp;·&nbsp;
+📸 <a href="https://instagram.com/_vishalshakya" target="_blank">Instagram</a>
 
 </div>
 
@@ -47,12 +50,12 @@ const vishal = {
 
 | Area | What I work with |
 |------|-----------------|
-| 🧠 **LLM Integrations** | OpenAI GPT-4, Claude API, Gemini — prompt engineering, RAG pipelines, tool use |
+| 🧠 **LLM Integrations** | OpenAI, Claude API, Gemini — prompt engineering, RAG pipelines, tool use |
 | 🔗 **Orchestration** | LangChain, LlamaIndex — agents, memory systems, retrieval-augmented workflows |
 | 🐍 **Python AI Stack** | FastAPI backends, vector DBs (Pinecone, Chroma), embeddings |
 | 🤗 **Open Source Models** | Hugging Face — fine-tuning and deploying models |
 | 🛠️ **AI-powered Features** | Smart search, content generation, document parsing, chat interfaces |
-| 💜 **Vibe Coding** | Shipping full apps fast with [Lovable](https://lovable.dev), Cursor, AI-assisted workflows |
+| 💜 **Vibe Coding** | Shipping full apps fast with <a href="https://lovable.dev" target="_blank">Lovable</a>, Cursor, AI-assisted workflows |
 
 </div>
 
@@ -64,27 +67,27 @@ const vishal = {
 
 **Languages**
 
-[![Skills](https://skillicons.dev/icons?i=php,python,js,ts,html,css&theme=dark)](https://skillicons.dev)
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=php,python,js,ts,html,css&theme=dark" /></a>
 
 **Frontend**
 
-[![Skills](https://skillicons.dev/icons?i=vue,react,tailwind,bootstrap,sass,vite&theme=dark)](https://skillicons.dev)
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vue,react,tailwind,bootstrap,sass,vite&theme=dark" /></a>
 
 **Backend & APIs**
 
-[![Skills](https://skillicons.dev/icons?i=laravel,nodejs,nestjs,express,fastapi&theme=dark)](https://skillicons.dev)
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=laravel,nodejs,nestjs,express,fastapi&theme=dark" /></a>
 
 **Databases**
 
-[![Skills](https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres&theme=dark)](https://skillicons.dev)
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres&theme=dark" /></a>
 
 **DevOps & Cloud**
 
-[![Skills](https://skillicons.dev/icons?i=docker,aws,gcp,nginx,githubactions,linux&theme=dark)](https://skillicons.dev)
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=docker,aws,gcp,nginx,githubactions,linux&theme=dark" /></a>
 
 **Tools**
 
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,firebase&theme=dark)](https://skillicons.dev)
+<a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,firebase&theme=dark" /></a>
 
 </div>
 
