@@ -12,7 +12,7 @@
 
 <div align="center">
 🌐 <a href="https://vishalshakya.com" target="_blank">vishalshakya.com</a> &nbsp;·&nbsp;
-📬 <a href="mailto:vishal.shakya991@gmail.com" target="_blank">vishal.shakya991@gmail.com</a> &nbsp;·&nbsp;
+📬 <a href="mailto:vishalshakya.info@gmail.com" target="_blank">vishalshakya.info@gmail.com</a> &nbsp;·&nbsp;
 💼 <a href="https://www.linkedin.com/in/vishalshakya1/" target="_blank">LinkedIn</a> &nbsp;·&nbsp;
 📸 <a href="https://instagram.com/_vishalshakya" target="_blank">Instagram</a>
 </div>
@@ -54,7 +54,7 @@ const vishal = {
     "Workflow automation",
   ],
 
-  contact: "vishal.shakya991@gmail.com",
+  contact: "vishalshakya.info@gmail.com",
 };
 ```
 
